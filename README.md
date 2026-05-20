@@ -113,6 +113,6 @@ karan = {
 
 *"First, solve the problem. Then, write the code." — but also Google it first.*
 
-**Thanks for stopping by! Drop a ⭐ if something here made you smile 😄**
+**Thanks for stopping by! 😄**
 
 </div>
