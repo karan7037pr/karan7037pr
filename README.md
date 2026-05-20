@@ -71,8 +71,6 @@ karan = {
 
 </div>
 
-
-
 ---
 
 ## 🚀 Currently On My Radar
@@ -100,7 +98,7 @@ karan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-chaudhary-976b92309/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-chaudhary-976b92309/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karan@me.iitr.ac.in)
 
 *Always open to interesting projects, collaborations, and memes about recursion.*
