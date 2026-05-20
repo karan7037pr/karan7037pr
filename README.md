@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-
+<div align="center>
 ```
 ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
 ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║
@@ -9,8 +9,9 @@
 ██║  ██╗██║  ██║██║  ██║██║  ██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
+</div>
 
-### 👋 Hey there! I'm **Karan** — IIT Roorkee alum, code wrangler & AI dreamer.
+### 👋 Hey there! I'm **Karan** — IIT Roorkee Student, code wrangler & AI dreamer.
 
 *"I came for the algorithms, stayed for the existential crisis about whether AI will take my job."*
 
@@ -76,15 +77,15 @@ karan = {
 
 <div align="center">
 
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karan7037pr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karan7037pr&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=karan7037pr&theme=tokyonight&hide_border=true)
 
 </div>
 
-> ⚠️ *Replace `YOUR_USERNAME` with your actual GitHub username to activate the stats!*
+
 
 ---
 
@@ -113,9 +114,8 @@ karan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-chaudhary-976b92309/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karan@me.iitr.ac.in)
 
 *Always open to interesting projects, collaborations, and memes about recursion.*
 
