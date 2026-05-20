@@ -67,10 +67,6 @@ karan = {
 
 <div align="center">
 
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karan7037pr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karan7037pr&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=karan7037pr&theme=tokyonight&hide_border=true)
 
 </div>
