@@ -1,6 +1,5 @@
 <!-- Header -->
 <div align="center">
-<div align="center>
 ```
 ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
 ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║
@@ -9,7 +8,6 @@
 ██║  ██╗██║  ██║██║  ██║██║  ██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
-</div>
 
 ### 👋 Hey there! I'm **Karan** — IIT Roorkee Student, code wrangler & AI dreamer.
 
